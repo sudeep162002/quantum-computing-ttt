@@ -15,5 +15,6 @@ Created Using: Python3, IBM qiskit, Streamlit
 Use this command in anaconda prompt 
 
 ```
+conda activate (encirnment) ttt_env
 streamlit run app.py
 ```

@@ -18,3 +18,6 @@ Use this command in anaconda prompt
 conda activate (encirnment) ttt_env
 streamlit run app.py
 ```
+
+https://user-images.githubusercontent.com/80563363/163095507-b92e6483-2cb2-4ea0-8200-03a7eee98f96.mp4
+

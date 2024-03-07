@@ -1,4 +1,4 @@
-**## Quantum Tic-Tac-Toe: Leveraging Quantum Computing for Game Simulations**
+## Quantum Tic-Tac-Toe: Leveraging Quantum Computing for Game Simulations**
 
 **Author:** Sudeep Choudhary
 
@@ -29,12 +29,7 @@ Tic-Tac-Toe, a simple yet strategic game, serves as a compelling introduction to
 
 While this project utilizes Qiskit for simulation purposes, the designed circuit can be potentially executed on actual quantum hardware once such resources become readily available. This opens up possibilities for exploring the intricacies of game theory and other computational problems in the realm of quantum computing.
 
-**Disclaimer:**
-
-Due to security restrictions, the provided video URL (`https://user-images.githubusercontent.com/80563363/163095507-b92e6483-2cb2-4ea0-8200-03a7eee98f96.mp4`) cannot be directly embedded in this Markdown file. However, you can consider one of the following options to provide access to the video:
-
-* **Host the video on a platform like YouTube or Vimeo and include a link in the readme.** For example, you could add a sentence like "A video demonstration of the project is available at [link to video]."
-* **Provide a brief description of the video content in the readme.** This could help users understand the purpose of the video without directly embedding it.
+https://user-images.githubusercontent.com/80563363/163095507-b92e6483-2cb2-4ea0-8200-03a7eee98f96.mp4
 
 **Further Exploration:**
 
